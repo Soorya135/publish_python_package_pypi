@@ -1,15 +1,15 @@
-# `basicpkg`
+# `samplepackage`
 
-The `basicpkg` is a simple testing example to understand the basics of developing your first Python package. 
+The `samplepackage` is a simple testing example to understand the basics of developing your first Python package. 
 
 ## Install & Usage
 
-You can install `basicpkg` as follows:
+You can install `samplepackage` as follows:
 
 ```
-pip install --index-url https://test.pypi.org/simple/ --no-deps basicpkg
+pip install --index-url https://test.pypi.org/simple/ --no-deps samplepackage-test_123
 ```
-Try to have fun with `basicpkg`:
+Try to have fun with `samplepackage`:
 
 ```
 from multiply.by_three import multiply_by_three
